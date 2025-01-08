@@ -1,0 +1,7 @@
+D:\dotnet-starterapp\dotnet-starterapp\bin\Release\net9.0\publish\dotnet-starterapp.exe
+D:\dotnet-starterapp\dotnet-starterapp\bin\Release\net9.0\publish\appsettings.Development.json
+D:\dotnet-starterapp\dotnet-starterapp\bin\Release\net9.0\publish\appsettings.json
+D:\dotnet-starterapp\dotnet-starterapp\bin\Release\net9.0\publish\dotnet-starterapp.dll
+D:\dotnet-starterapp\dotnet-starterapp\bin\Release\net9.0\publish\dotnet-starterapp.deps.json
+D:\dotnet-starterapp\dotnet-starterapp\bin\Release\net9.0\publish\dotnet-starterapp.runtimeconfig.json
+D:\dotnet-starterapp\dotnet-starterapp\bin\Release\net9.0\publish\dotnet-starterapp.pdb
