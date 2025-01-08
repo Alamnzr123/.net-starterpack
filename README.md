@@ -9,6 +9,6 @@
 6. Name the project BlazorApp in the command palette when prompted. Press Enter to confirm.
 ```
 
-![Screenshot](Screenshot (50).png)
+![Screenshot](screenshot.png)
 
 To learn more about the .NET, refer to [our guide on project structure](https://dotnet.microsoft.com/id-id/learn/dotnet/hello-world-tutorial/next).
